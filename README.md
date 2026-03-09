@@ -16,6 +16,16 @@
   <p>
   Hi Everyone, my name is Bryon! I have a BS in Computer Engineering from Florida Polytechnic University. I love learning and staying on top of upcoming technologies in the tech industry. ⠀⠀⠀
   </p>  
+ <blockquote>
+  <p>
+    “The reasonable man adapts himself to the world: the unreasonable one
+    persists in trying to adapt the world to himself. Therefore all progress
+    depends on the unreasonable man.”
+  </p>
+  <footer>
+    — <cite>George Bernard Shaw, <i>Man and Superman</i></cite>
+  </footer>
+</blockquote>
 </about>
 
 <projects>
@@ -29,4 +39,5 @@
     <a href = "https://github.com/BetaPhIII/R.O.B._2.0"> R.O.B. 2.0 </a> - JavaScript 
   </h3>
    <p> &nbsp&nbsp &isin; Discord automated bot created to perform user interactions and GPT DaVinci 2.0 predictive responses</p>
+ 
 </projects> 
